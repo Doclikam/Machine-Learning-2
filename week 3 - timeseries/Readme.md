@@ -1,6 +1,10 @@
-****Beijing-Multi-Site-Air-Quality-Data-Data-Set****
+#Beijing-Multi-Site-Air-Quality-Data-Data-Set
 
+In January 2013, a suffocating, poisonous haze hung over Beijing for four days. The record high levels of fine particulate matter in the air caused airports to close and thousands of coughing, choking citizens to seek hospital care. Beijing’s coal-burning power plants and 5 million motor vehicles are responsible for much of the city’s pollution. The emission of pollutants and still air that allows the pollutants to build.
 
+The air pollution crisis in Beijing, China, during 2013 has raised significant concerns regarding public health and environmental sustainability. The city experienced severe episodes of air pollution characterized by high levels of particulate matter (PM2.5) and other pollutants, leading to adverse health effects and disruptions to daily life. In response to this crisis, there is a need to conduct a comprehensive time-series analysis to understand the temporal patterns and trends of air pollution levels, identify key factors influencing air quality, and develop predictive models for forecasting future pollution levels.
+
+Analyze the temporal dynamics of air pollution in Beijing during the year 2013 and develop predictive models to forecast pollutant concentrations:
 The present project aims to predict air pollution in Beijing, China, using the data set "Beijing Multi-Site Air-Quality Data Data Set"
 
 The present project aims to predict air pollution in Beijing, China, using the "Beijing Multi-Site Air-Quality Data Data Set" data set, available at Beijing Multi-Site Air-Quality Data.
@@ -16,10 +20,11 @@ A few years ago, China established the Air Quality Index (AQI) based on the leve
 Focus should be on importing the data provided in a suitable format so that subsequent analysis is more easy. Also verify if it is necessary to perform any data cleaning and/or preprocessing steps.
 
 **Task 2: Exploratory data analysis**
-Summarize and visualize data in useful ways. Students must think of interesting questions that they could be verified with the available data and give textual answers or through data visualization.
+Summarize and visualize data in useful ways. Students must think of interesting questions that they could be verified with the available data and give textual answers or through data visualization.Exploration Data Analysis: Explore the temporal patterns and trends of air pollution levels, including PM2.5, and other relevant pollutants, using historical data from 2013 to 2017. Factor Identification: Identify key factors influencing air quality, including meteorological variables, industrial activities, vehicular emissions, and other environmental factors. 
+
 
 **Task 3: Predictive modeling**
-A predictive task must be defined that can help predict air pollution, through the value of the AQI or Air Pollution Level, depending on its characteristics. After defining the task, you must use the available data to select and obtain a good model for this task. You must justify the suggested model.
+A predictive task must be defined that can help predict air pollution, through the value of the AQI or Air Pollution Level, depending on its characteristics. Model Development: Develop time-series forecasting models, such as Autoregressive Integrated Moving Average (ARIMA), Seasonal Auto-Regressive Integrated Moving Average (SARIMA), FB Prophet, Vector Auto Regressor (VAR), and machine learning approaches (e.g., neural networks), to predict future air pollution levels. Model Evaluation: Evaluate the performance of the forecasting models using appropriate metrics, such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE)
 
 **Deliverables**
 The project must be carried out by groups of two students and must be sent through the virtual classroom in the Corresponding task, with the following files:
